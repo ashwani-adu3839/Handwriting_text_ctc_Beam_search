@@ -10,3 +10,7 @@ _
 [Coursera](https://www.coursera.org/learn/nlp-sequence-models) - _Sequence Models by Andrew Ng_
 
 [IAM Handwriting Database](https://fki.tic.heia-fr.ch/databases/iam-handwriting-database) - _IAM Handwriting Database_
+ 
+[Model for reading Captchas](https://keras.io/examples/vision/captcha_ocr/) - _OCR model for reading Captchas by Aakash Kumar Nain
+_
+
