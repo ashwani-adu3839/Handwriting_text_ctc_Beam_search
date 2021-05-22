@@ -1,0 +1,2 @@
+# Handwriting_text_ctc_Beam_search
+Handwritten Text Recognition System
