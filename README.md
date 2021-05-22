@@ -11,6 +11,7 @@ _
 
 [IAM Handwriting Database](https://fki.tic.heia-fr.ch/databases/iam-handwriting-database) - _IAM Handwriting Database_
  
-[Model for reading Captchas](https://keras.io/examples/vision/captcha_ocr/) - _OCR model for reading Captchas by Aakash Kumar Nain
-_
+[Model for reading Captchas](https://keras.io/examples/vision/captcha_ocr/) - _OCR model for reading Captchas by Aakash Kumar Nain_
 
+[Towards Data Science](https://towardsdatascience.com/intuitively-understanding-connectionist-temporal-classification-3797e43a86c) - _An Intuitive Explanation of Connectionist Temporal Classification by Harald Scheidl_
+ 
