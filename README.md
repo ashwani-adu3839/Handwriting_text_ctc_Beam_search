@@ -1,5 +1,6 @@
 # Handwriting_text_ctc_Beam_search
-Handwritten Text Recognition System. The data is taken from IAM Handwriting Database. 
+
+Handwritten Text Recognition System using RNN structure as encoder and CTC (Connectionist Temporal Classification) as decoder. The data is taken from IAM Handwriting Database. 
 
 # Link
 [Tensorflow](https://www.tensorflow.org/api_docs) - _Tensorflow NLP_
